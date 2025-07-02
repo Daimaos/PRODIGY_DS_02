@@ -49,7 +49,7 @@ The dataset is sourced from the [Titanic - Machine Learning from Disaster](https
 ---
 
 ## Author  
-Hashir Muhammed  
+Deepak Denny  
 Data Science Intern | Prodigy InfoTech
 
 ---
